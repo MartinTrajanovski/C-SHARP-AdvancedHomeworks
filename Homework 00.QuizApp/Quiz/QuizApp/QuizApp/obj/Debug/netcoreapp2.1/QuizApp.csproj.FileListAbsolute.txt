@@ -1,0 +1,17 @@
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\bin\Debug\netcoreapp2.1\QuizApp.deps.json
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\bin\Debug\netcoreapp2.1\QuizApp.runtimeconfig.json
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\bin\Debug\netcoreapp2.1\QuizApp.runtimeconfig.dev.json
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\bin\Debug\netcoreapp2.1\QuizApp.dll
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\bin\Debug\netcoreapp2.1\QuizApp.pdb
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\bin\Debug\netcoreapp2.1\QuizApp.DomainModels.dll
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\bin\Debug\netcoreapp2.1\QuizApp.Services.dll
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\bin\Debug\netcoreapp2.1\QuizApp.DomainModels.pdb
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\bin\Debug\netcoreapp2.1\QuizApp.Services.pdb
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\obj\Debug\netcoreapp2.1\QuizApp.csprojAssemblyReference.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\obj\Debug\netcoreapp2.1\QuizApp.AssemblyInfoInputs.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\obj\Debug\netcoreapp2.1\QuizApp.AssemblyInfo.cs
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\obj\Debug\netcoreapp2.1\QuizApp.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\obj\Debug\netcoreapp2.1\QuizApp.csproj.CopyComplete
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\obj\Debug\netcoreapp2.1\QuizApp.dll
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\obj\Debug\netcoreapp2.1\QuizApp.pdb
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp\obj\Debug\netcoreapp2.1\QuizApp.genruntimeconfig.cache

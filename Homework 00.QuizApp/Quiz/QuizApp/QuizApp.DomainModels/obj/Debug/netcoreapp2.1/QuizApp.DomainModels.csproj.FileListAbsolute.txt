@@ -1,0 +1,9 @@
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp.DomainModels\bin\Debug\netcoreapp2.1\QuizApp.DomainModels.deps.json
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp.DomainModels\bin\Debug\netcoreapp2.1\QuizApp.DomainModels.dll
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp.DomainModels\bin\Debug\netcoreapp2.1\QuizApp.DomainModels.pdb
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp.DomainModels\obj\Debug\netcoreapp2.1\QuizApp.DomainModels.csprojAssemblyReference.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp.DomainModels\obj\Debug\netcoreapp2.1\QuizApp.DomainModels.AssemblyInfoInputs.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp.DomainModels\obj\Debug\netcoreapp2.1\QuizApp.DomainModels.AssemblyInfo.cs
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp.DomainModels\obj\Debug\netcoreapp2.1\QuizApp.DomainModels.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp.DomainModels\obj\Debug\netcoreapp2.1\QuizApp.DomainModels.dll
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 2 (home) 10.06.2020\Quiz\QuizApp\QuizApp.DomainModels\obj\Debug\netcoreapp2.1\QuizApp.DomainModels.pdb
