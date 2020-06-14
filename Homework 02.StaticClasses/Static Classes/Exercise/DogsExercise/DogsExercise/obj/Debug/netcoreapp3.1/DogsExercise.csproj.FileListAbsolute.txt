@@ -1,0 +1,26 @@
+D:\Seavus\C#\C# Advanced Exercise_homework\3. Static Classes\Exercise\DogsExercise\DogsExercise\bin\Debug\netcoreapp3.1\DogsExercise.exe
+D:\Seavus\C#\C# Advanced Exercise_homework\3. Static Classes\Exercise\DogsExercise\DogsExercise\bin\Debug\netcoreapp3.1\DogsExercise.deps.json
+D:\Seavus\C#\C# Advanced Exercise_homework\3. Static Classes\Exercise\DogsExercise\DogsExercise\bin\Debug\netcoreapp3.1\DogsExercise.runtimeconfig.json
+D:\Seavus\C#\C# Advanced Exercise_homework\3. Static Classes\Exercise\DogsExercise\DogsExercise\bin\Debug\netcoreapp3.1\DogsExercise.runtimeconfig.dev.json
+D:\Seavus\C#\C# Advanced Exercise_homework\3. Static Classes\Exercise\DogsExercise\DogsExercise\bin\Debug\netcoreapp3.1\DogsExercise.dll
+D:\Seavus\C#\C# Advanced Exercise_homework\3. Static Classes\Exercise\DogsExercise\DogsExercise\bin\Debug\netcoreapp3.1\DogsExercise.pdb
+D:\Seavus\C#\C# Advanced Exercise_homework\3. Static Classes\Exercise\DogsExercise\DogsExercise\obj\Debug\netcoreapp3.1\DogsExercise.csprojAssemblyReference.cache
+D:\Seavus\C#\C# Advanced Exercise_homework\3. Static Classes\Exercise\DogsExercise\DogsExercise\obj\Debug\netcoreapp3.1\DogsExercise.AssemblyInfoInputs.cache
+D:\Seavus\C#\C# Advanced Exercise_homework\3. Static Classes\Exercise\DogsExercise\DogsExercise\obj\Debug\netcoreapp3.1\DogsExercise.AssemblyInfo.cs
+D:\Seavus\C#\C# Advanced Exercise_homework\3. Static Classes\Exercise\DogsExercise\DogsExercise\obj\Debug\netcoreapp3.1\DogsExercise.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C# Advanced Exercise_homework\3. Static Classes\Exercise\DogsExercise\DogsExercise\obj\Debug\netcoreapp3.1\DogsExercise.dll
+D:\Seavus\C#\C# Advanced Exercise_homework\3. Static Classes\Exercise\DogsExercise\DogsExercise\obj\Debug\netcoreapp3.1\DogsExercise.pdb
+D:\Seavus\C#\C# Advanced Exercise_homework\3. Static Classes\Exercise\DogsExercise\DogsExercise\obj\Debug\netcoreapp3.1\DogsExercise.genruntimeconfig.cache
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 02.StaticClasses\Static Classes\Exercise\DogsExercise\DogsExercise\bin\Debug\netcoreapp3.1\DogsExercise.exe
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 02.StaticClasses\Static Classes\Exercise\DogsExercise\DogsExercise\bin\Debug\netcoreapp3.1\DogsExercise.deps.json
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 02.StaticClasses\Static Classes\Exercise\DogsExercise\DogsExercise\bin\Debug\netcoreapp3.1\DogsExercise.runtimeconfig.json
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 02.StaticClasses\Static Classes\Exercise\DogsExercise\DogsExercise\bin\Debug\netcoreapp3.1\DogsExercise.runtimeconfig.dev.json
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 02.StaticClasses\Static Classes\Exercise\DogsExercise\DogsExercise\bin\Debug\netcoreapp3.1\DogsExercise.dll
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 02.StaticClasses\Static Classes\Exercise\DogsExercise\DogsExercise\bin\Debug\netcoreapp3.1\DogsExercise.pdb
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 02.StaticClasses\Static Classes\Exercise\DogsExercise\DogsExercise\obj\Debug\netcoreapp3.1\DogsExercise.csprojAssemblyReference.cache
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 02.StaticClasses\Static Classes\Exercise\DogsExercise\DogsExercise\obj\Debug\netcoreapp3.1\DogsExercise.AssemblyInfoInputs.cache
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 02.StaticClasses\Static Classes\Exercise\DogsExercise\DogsExercise\obj\Debug\netcoreapp3.1\DogsExercise.AssemblyInfo.cs
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 02.StaticClasses\Static Classes\Exercise\DogsExercise\DogsExercise\obj\Debug\netcoreapp3.1\DogsExercise.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 02.StaticClasses\Static Classes\Exercise\DogsExercise\DogsExercise\obj\Debug\netcoreapp3.1\DogsExercise.dll
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 02.StaticClasses\Static Classes\Exercise\DogsExercise\DogsExercise\obj\Debug\netcoreapp3.1\DogsExercise.pdb
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 02.StaticClasses\Static Classes\Exercise\DogsExercise\DogsExercise\obj\Debug\netcoreapp3.1\DogsExercise.genruntimeconfig.cache

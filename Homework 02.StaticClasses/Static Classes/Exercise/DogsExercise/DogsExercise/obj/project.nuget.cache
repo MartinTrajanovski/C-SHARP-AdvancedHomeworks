@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "az43jPyHbZPhFJyPf9ymRysg3KQTftTa7vB71Ssl49VHHasB6+gc7MPhUWic0FLLXts1aL+Gcv+MERXvu3is3g==",
+  "success": true,
+  "projectFilePath": "D:\\Seavus\\C#\\C-AdvancedHomeworks\\Homework 02.StaticClasses\\Static Classes\\Exercise\\DogsExercise\\DogsExercise\\DogsExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
