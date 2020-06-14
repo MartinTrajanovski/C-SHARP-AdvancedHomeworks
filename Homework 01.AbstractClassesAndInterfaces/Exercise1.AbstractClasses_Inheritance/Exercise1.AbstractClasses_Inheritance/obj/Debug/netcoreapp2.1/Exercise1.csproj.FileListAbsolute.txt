@@ -1,0 +1,15 @@
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Exercise1.AbstractClasses_Inheritance\bin\Debug\netcoreapp2.1\Exercise1.deps.json
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Exercise1.AbstractClasses_Inheritance\bin\Debug\netcoreapp2.1\Exercise1.runtimeconfig.json
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Exercise1.AbstractClasses_Inheritance\bin\Debug\netcoreapp2.1\Exercise1.runtimeconfig.dev.json
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Exercise1.AbstractClasses_Inheritance\bin\Debug\netcoreapp2.1\Exercise1.dll
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Exercise1.AbstractClasses_Inheritance\bin\Debug\netcoreapp2.1\Exercise1.pdb
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Exercise1.AbstractClasses_Inheritance\bin\Debug\netcoreapp2.1\Models.dll
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Exercise1.AbstractClasses_Inheritance\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Exercise1.AbstractClasses_Inheritance\obj\Debug\netcoreapp2.1\Exercise1.csprojAssemblyReference.cache
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Exercise1.AbstractClasses_Inheritance\obj\Debug\netcoreapp2.1\Exercise1.AssemblyInfoInputs.cache
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Exercise1.AbstractClasses_Inheritance\obj\Debug\netcoreapp2.1\Exercise1.AssemblyInfo.cs
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Exercise1.AbstractClasses_Inheritance\obj\Debug\netcoreapp2.1\Exercise1.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Exercise1.AbstractClasses_Inheritance\obj\Debug\netcoreapp2.1\Exercise1.csproj.CopyComplete
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Exercise1.AbstractClasses_Inheritance\obj\Debug\netcoreapp2.1\Exercise1.dll
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Exercise1.AbstractClasses_Inheritance\obj\Debug\netcoreapp2.1\Exercise1.pdb
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Exercise1.AbstractClasses_Inheritance\obj\Debug\netcoreapp2.1\Exercise1.genruntimeconfig.cache

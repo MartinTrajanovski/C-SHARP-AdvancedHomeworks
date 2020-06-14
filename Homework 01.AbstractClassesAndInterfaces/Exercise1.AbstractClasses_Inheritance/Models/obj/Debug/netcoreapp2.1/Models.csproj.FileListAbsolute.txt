@@ -1,0 +1,18 @@
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 3 (home) 12.06.2020\demo\Exercise1.AbstractClasses_Inheritance\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 3 (home) 12.06.2020\demo\Exercise1.AbstractClasses_Inheritance\Models\bin\Debug\netcoreapp2.1\Models.dll
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 3 (home) 12.06.2020\demo\Exercise1.AbstractClasses_Inheritance\Models\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 3 (home) 12.06.2020\demo\Exercise1.AbstractClasses_Inheritance\Models\obj\Debug\netcoreapp2.1\Models.csprojAssemblyReference.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 3 (home) 12.06.2020\demo\Exercise1.AbstractClasses_Inheritance\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 3 (home) 12.06.2020\demo\Exercise1.AbstractClasses_Inheritance\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 3 (home) 12.06.2020\demo\Exercise1.AbstractClasses_Inheritance\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 3 (home) 12.06.2020\demo\Exercise1.AbstractClasses_Inheritance\Models\obj\Debug\netcoreapp2.1\Models.dll
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 3 (home) 12.06.2020\demo\Exercise1.AbstractClasses_Inheritance\Models\obj\Debug\netcoreapp2.1\Models.pdb
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Models\bin\Debug\netcoreapp2.1\Models.dll
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Models\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Models\obj\Debug\netcoreapp2.1\Models.csprojAssemblyReference.cache
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Models\obj\Debug\netcoreapp2.1\Models.dll
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 01.AbstractClassesAndInterfaces\Exercise1.AbstractClasses_Inheritance\Models\obj\Debug\netcoreapp2.1\Models.pdb
