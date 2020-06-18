@@ -1,0 +1,17 @@
+D:\Seavus\C#\C# Advanced Exercise_homework\4. Generics and Extension Methods\Exercise\Exercise\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+D:\Seavus\C#\C# Advanced Exercise_homework\4. Generics and Extension Methods\Exercise\Exercise\Models\bin\Debug\netcoreapp2.1\Models.dll
+D:\Seavus\C#\C# Advanced Exercise_homework\4. Generics and Extension Methods\Exercise\Exercise\Models\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Seavus\C#\C# Advanced Exercise_homework\4. Generics and Extension Methods\Exercise\Exercise\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+D:\Seavus\C#\C# Advanced Exercise_homework\4. Generics and Extension Methods\Exercise\Exercise\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+D:\Seavus\C#\C# Advanced Exercise_homework\4. Generics and Extension Methods\Exercise\Exercise\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C# Advanced Exercise_homework\4. Generics and Extension Methods\Exercise\Exercise\Models\obj\Debug\netcoreapp2.1\Models.dll
+D:\Seavus\C#\C# Advanced Exercise_homework\4. Generics and Extension Methods\Exercise\Exercise\Models\obj\Debug\netcoreapp2.1\Models.pdb
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 04.Generics and Extension Methods\Exercise\Exercise\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 04.Generics and Extension Methods\Exercise\Exercise\Models\bin\Debug\netcoreapp2.1\Models.dll
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 04.Generics and Extension Methods\Exercise\Exercise\Models\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 04.Generics and Extension Methods\Exercise\Exercise\Models\obj\Debug\netcoreapp2.1\Models.csprojAssemblyReference.cache
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 04.Generics and Extension Methods\Exercise\Exercise\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 04.Generics and Extension Methods\Exercise\Exercise\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 04.Generics and Extension Methods\Exercise\Exercise\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 04.Generics and Extension Methods\Exercise\Exercise\Models\obj\Debug\netcoreapp2.1\Models.dll
+D:\Seavus\C#\C-AdvancedHomeworks\Homework 04.Generics and Extension Methods\Exercise\Exercise\Models\obj\Debug\netcoreapp2.1\Models.pdb
