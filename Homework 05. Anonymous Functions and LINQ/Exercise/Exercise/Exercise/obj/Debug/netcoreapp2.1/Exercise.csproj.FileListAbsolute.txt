@@ -1,0 +1,12 @@
+D:\Seavus\C#\C# Advanced Exercise_homework\5. Anonymous Functions and LINQ\Exercise\Exercise\Exercise\bin\Debug\netcoreapp2.1\Exercise.deps.json
+D:\Seavus\C#\C# Advanced Exercise_homework\5. Anonymous Functions and LINQ\Exercise\Exercise\Exercise\bin\Debug\netcoreapp2.1\Exercise.runtimeconfig.json
+D:\Seavus\C#\C# Advanced Exercise_homework\5. Anonymous Functions and LINQ\Exercise\Exercise\Exercise\bin\Debug\netcoreapp2.1\Exercise.runtimeconfig.dev.json
+D:\Seavus\C#\C# Advanced Exercise_homework\5. Anonymous Functions and LINQ\Exercise\Exercise\Exercise\bin\Debug\netcoreapp2.1\Exercise.dll
+D:\Seavus\C#\C# Advanced Exercise_homework\5. Anonymous Functions and LINQ\Exercise\Exercise\Exercise\bin\Debug\netcoreapp2.1\Exercise.pdb
+D:\Seavus\C#\C# Advanced Exercise_homework\5. Anonymous Functions and LINQ\Exercise\Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.csprojAssemblyReference.cache
+D:\Seavus\C#\C# Advanced Exercise_homework\5. Anonymous Functions and LINQ\Exercise\Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.AssemblyInfoInputs.cache
+D:\Seavus\C#\C# Advanced Exercise_homework\5. Anonymous Functions and LINQ\Exercise\Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.AssemblyInfo.cs
+D:\Seavus\C#\C# Advanced Exercise_homework\5. Anonymous Functions and LINQ\Exercise\Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C# Advanced Exercise_homework\5. Anonymous Functions and LINQ\Exercise\Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.dll
+D:\Seavus\C#\C# Advanced Exercise_homework\5. Anonymous Functions and LINQ\Exercise\Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.pdb
+D:\Seavus\C#\C# Advanced Exercise_homework\5. Anonymous Functions and LINQ\Exercise\Exercise\Exercise\obj\Debug\netcoreapp2.1\Exercise.genruntimeconfig.cache
