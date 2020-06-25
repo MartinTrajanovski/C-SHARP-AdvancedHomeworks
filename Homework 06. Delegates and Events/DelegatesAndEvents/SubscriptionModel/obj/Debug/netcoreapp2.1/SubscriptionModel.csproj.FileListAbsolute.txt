@@ -1,0 +1,24 @@
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\SubscriptionModel\bin\Debug\netcoreapp2.1\SubscriptionModel.deps.json
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\SubscriptionModel\bin\Debug\netcoreapp2.1\SubscriptionModel.runtimeconfig.json
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\SubscriptionModel\bin\Debug\netcoreapp2.1\SubscriptionModel.runtimeconfig.dev.json
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\SubscriptionModel\bin\Debug\netcoreapp2.1\SubscriptionModel.dll
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\SubscriptionModel\bin\Debug\netcoreapp2.1\SubscriptionModel.pdb
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\SubscriptionModel\obj\Debug\netcoreapp2.1\SubscriptionModel.csprojAssemblyReference.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\SubscriptionModel\obj\Debug\netcoreapp2.1\SubscriptionModel.AssemblyInfoInputs.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\SubscriptionModel\obj\Debug\netcoreapp2.1\SubscriptionModel.AssemblyInfo.cs
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\SubscriptionModel\obj\Debug\netcoreapp2.1\SubscriptionModel.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\SubscriptionModel\obj\Debug\netcoreapp2.1\SubscriptionModel.dll
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\SubscriptionModel\obj\Debug\netcoreapp2.1\SubscriptionModel.pdb
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\SubscriptionModel\obj\Debug\netcoreapp2.1\SubscriptionModel.genruntimeconfig.cache
+D:\Seavus\C#\C# Advanced Exercise_homework\6. Delegates and Events\DelegatesAndEvents\SubscriptionModel\bin\Debug\netcoreapp2.1\SubscriptionModel.deps.json
+D:\Seavus\C#\C# Advanced Exercise_homework\6. Delegates and Events\DelegatesAndEvents\SubscriptionModel\bin\Debug\netcoreapp2.1\SubscriptionModel.runtimeconfig.json
+D:\Seavus\C#\C# Advanced Exercise_homework\6. Delegates and Events\DelegatesAndEvents\SubscriptionModel\bin\Debug\netcoreapp2.1\SubscriptionModel.runtimeconfig.dev.json
+D:\Seavus\C#\C# Advanced Exercise_homework\6. Delegates and Events\DelegatesAndEvents\SubscriptionModel\bin\Debug\netcoreapp2.1\SubscriptionModel.dll
+D:\Seavus\C#\C# Advanced Exercise_homework\6. Delegates and Events\DelegatesAndEvents\SubscriptionModel\bin\Debug\netcoreapp2.1\SubscriptionModel.pdb
+D:\Seavus\C#\C# Advanced Exercise_homework\6. Delegates and Events\DelegatesAndEvents\SubscriptionModel\obj\Debug\netcoreapp2.1\SubscriptionModel.csprojAssemblyReference.cache
+D:\Seavus\C#\C# Advanced Exercise_homework\6. Delegates and Events\DelegatesAndEvents\SubscriptionModel\obj\Debug\netcoreapp2.1\SubscriptionModel.AssemblyInfoInputs.cache
+D:\Seavus\C#\C# Advanced Exercise_homework\6. Delegates and Events\DelegatesAndEvents\SubscriptionModel\obj\Debug\netcoreapp2.1\SubscriptionModel.AssemblyInfo.cs
+D:\Seavus\C#\C# Advanced Exercise_homework\6. Delegates and Events\DelegatesAndEvents\SubscriptionModel\obj\Debug\netcoreapp2.1\SubscriptionModel.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C# Advanced Exercise_homework\6. Delegates and Events\DelegatesAndEvents\SubscriptionModel\obj\Debug\netcoreapp2.1\SubscriptionModel.dll
+D:\Seavus\C#\C# Advanced Exercise_homework\6. Delegates and Events\DelegatesAndEvents\SubscriptionModel\obj\Debug\netcoreapp2.1\SubscriptionModel.pdb
+D:\Seavus\C#\C# Advanced Exercise_homework\6. Delegates and Events\DelegatesAndEvents\SubscriptionModel\obj\Debug\netcoreapp2.1\SubscriptionModel.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\netcoreapp2.1\Delegates.deps.json
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\netcoreapp2.1\Delegates.runtimeconfig.json
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\netcoreapp2.1\Delegates.runtimeconfig.dev.json
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\netcoreapp2.1\Delegates.dll
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\netcoreapp2.1\Delegates.pdb
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\Delegates.AssemblyInfoInputs.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\Delegates.AssemblyInfo.cs
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\Delegates.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\Delegates.dll
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\Delegates.pdb
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\Delegates.genruntimeconfig.cache

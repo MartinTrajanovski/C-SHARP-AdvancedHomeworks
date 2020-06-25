@@ -1,0 +1,12 @@
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\netcoreapp2.1\DelegatesAndEvents.deps.json
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\netcoreapp2.1\DelegatesAndEvents.runtimeconfig.json
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\netcoreapp2.1\DelegatesAndEvents.runtimeconfig.dev.json
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\netcoreapp2.1\DelegatesAndEvents.dll
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\netcoreapp2.1\DelegatesAndEvents.pdb
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\DelegatesAndEvents.csprojAssemblyReference.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\DelegatesAndEvents.AssemblyInfoInputs.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\DelegatesAndEvents.AssemblyInfo.cs
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\DelegatesAndEvents.dll
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\DelegatesAndEvents.pdb
+D:\Seavus\C#\C# Advanced ClassCode and Exercise\Class 8 (home) 24.06.2020\Demo\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\netcoreapp2.1\DelegatesAndEvents.genruntimeconfig.cache
